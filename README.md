@@ -1,2 +1,2 @@
-# sample-scripts
-A list of sample Python scripts at an introductory level.
+# sample_scripts
+Sample Python scripts for data analysis and plotting.
